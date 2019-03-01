@@ -1,0 +1,1170 @@
+<?xml version="1.0"?>
+<root ptr="0x55aea6152690" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55aea6141c70" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18836" height="64212" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18836" height="64212"/>
+ </infos>
+ <page ptr="0x7f428c1c9000" id="1" symbol="11SwPageFrame" next="57" upper="0" lower="2">
+  <infos>
+   <bounds left="6880" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x7f428c1cb000" id="2" symbol="11SwBodyFrame" upper="1" lower="208">
+   <infos>
+    <bounds left="8014" top="1418" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x7f427fff3b30" id="208" symbol="11SwTextFrame" next="214" upper="2" txtNodeIndex="9">
+    <infos>
+     <bounds left="8014" top="1418" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Andrew Baca    <Text nLength="11" nType="POR_PARA" nHeight="276" nWidth="1313"/>
+    <LineBreak nWidth="1313"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3d60" id="214" symbol="11SwTextFrame" next="209" prev="208" upper="2" txtNodeIndex="10">
+    <infos>
+     <bounds left="8014" top="1694" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+OS HW 1*September 17th, 2018    <Text nLength="7" nType="POR_TXT" nHeight="276" nWidth="942"/>
+    <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak nWidth="942"/>
+    <Text nLength="12" nType="POR_TXT" nHeight="276" nWidth="1326"/>
+    <Text nLength="2" nType="POR_TXT" nHeight="276" nWidth="108"/>
+    <Text nLength="6" nType="POR_TXT" nHeight="276" nWidth="600"/>
+    <LineBreak nWidth="2034"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3c48" id="209" symbol="11SwTextFrame" next="235" prev="214" upper="2" txtNodeIndex="11">
+    <infos>
+     <bounds left="8014" top="2246" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff34a0" id="235" symbol="11SwTextFrame" next="3" prev="209" upper="2" txtNodeIndex="12">
+    <infos>
+     <bounds left="8014" top="2522" width="9972" height="322" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="322"/>
+    </infos>
+OS HW 1    <Text nLength="7" nType="POR_PARA" nHeight="322" nWidth="1146"/>
+    <LineBreak nWidth="1146"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc000" id="3" symbol="11SwTextFrame" next="120" prev="235" upper="2" txtNodeIndex="13">
+    <infos>
+     <bounds left="8014" top="2844" width="9972" height="322" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="322"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3b18" id="120" symbol="11SwTextFrame" next="121" prev="3" upper="2" txtNodeIndex="14">
+    <infos>
+     <bounds left="8014" top="3166" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+CH 1    <Text nLength="4" nType="POR_PARA" nHeight="276" nWidth="540"/>
+    <LineBreak nWidth="540"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3c30" id="121" symbol="11SwTextFrame" next="125" prev="120" upper="2" txtNodeIndex="15">
+    <infos>
+     <bounds left="8014" top="3442" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.1 (1.1 Book)    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1400"/>
+    <LineBreak nWidth="1400"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7030" id="125" symbol="11SwTextFrame" next="138" prev="121" upper="2" txtNodeIndex="16">
+    <infos>
+     <bounds left="8014" top="3718" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+What are the three main purposes of an operating system?    <Text nLength="56" nType="POR_PARA" nHeight="276" nWidth="5985"/>
+    <LineBreak nWidth="5985"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7a08" id="138" symbol="11SwTextFrame" next="124" prev="125" upper="2" txtNodeIndex="17">
+    <infos>
+     <bounds left="8014" top="3994" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3e60" id="124" symbol="11SwTextFrame" next="139" prev="138" upper="2" txtNodeIndex="18">
+    <infos>
+     <bounds left="8014" top="4270" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.2 (1.10 Book)    <Text nLength="15" nType="POR_PARA" nHeight="276" nWidth="1520"/>
+    <LineBreak nWidth="1520"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7b20" id="139" symbol="11SwTextFrame" next="128" prev="124" upper="2" txtNodeIndex="19">
+    <infos>
+     <bounds left="8014" top="4546" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Give two reasons why caches are useful. What problems do they solve?    <Text nLength="68" nType="POR_PARA" nHeight="276" nWidth="7222"/>
+    <LineBreak nWidth="7222"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7260" id="128" symbol="11SwTextFrame" next="126" prev="139" upper="2" txtNodeIndex="20">
+    <infos>
+     <bounds left="8014" top="4822" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7148" id="126" symbol="11SwTextFrame" next="140" prev="128" upper="2" txtNodeIndex="21">
+    <infos>
+     <bounds left="8014" top="5098" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.3 (1.12 Book)    <Text nLength="15" nType="POR_PARA" nHeight="276" nWidth="1520"/>
+    <LineBreak nWidth="1520"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7c38" id="140" symbol="11SwTextFrame" next="131" prev="126" upper="2" txtNodeIndex="22">
+    <infos>
+     <bounds left="8014" top="5374" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+In a multiprogamming and time-sharing environment, several users share the system simultaneously. This can result in various security problems. Name two examples.    <Text nLength="82" nType="POR_PARA" nHeight="276" nWidth="8747"/>
+    <LineBreak nWidth="8747"/>
+    <Text nLength="80" nType="POR_LAY" nHeight="276" nWidth="8340"/>
+    <LineBreak nWidth="8340"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7490" id="131" symbol="11SwTextFrame" next="129" prev="140" upper="2" txtNodeIndex="23">
+    <infos>
+     <bounds left="8014" top="5926" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7378" id="129" symbol="11SwTextFrame" next="142" prev="131" upper="2" txtNodeIndex="24">
+    <infos>
+     <bounds left="8014" top="6202" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.4 (1.6 Book)    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1400"/>
+    <LineBreak nWidth="1400"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7e68" id="142" symbol="11SwTextFrame" next="143" prev="129" upper="2" txtNodeIndex="25">
+    <infos>
+     <bounds left="8014" top="6478" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Which of the following instructions should be privileged: a. Set value of timer. b. Read    <Text nLength="88" nType="POR_PARA" nHeight="276" nWidth="8799"/>
+    <LineBreak nWidth="8799"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b7d50" id="143" symbol="11SwTextFrame" next="144" prev="142" upper="2" txtNodeIndex="26">
+    <infos>
+     <bounds left="8014" top="6754" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+the clock. c. Clear memory. d. Issue a trap instruction. e. Turn off interrupts. f.    <Text nLength="83" nType="POR_PARA" nHeight="276" nWidth="8036"/>
+    <LineBreak nWidth="8036"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc038" id="144" symbol="11SwTextFrame" next="145" prev="143" upper="2" txtNodeIndex="27">
+    <infos>
+     <bounds left="8014" top="7030" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Modify entries in device-status table. g. Switch from user to kernel mode. h. Access I/O    <Text nLength="88" nType="POR_PARA" nHeight="276" nWidth="8857"/>
+    <LineBreak nWidth="8857"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc150" id="145" symbol="11SwTextFrame" next="134" prev="144" upper="2" txtNodeIndex="28">
+    <infos>
+     <bounds left="8014" top="7306" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+device?    <Text nLength="7" nType="POR_PARA" nHeight="276" nWidth="760"/>
+    <LineBreak nWidth="760"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b76c0" id="134" symbol="11SwTextFrame" next="132" prev="145" upper="2" txtNodeIndex="29">
+    <infos>
+     <bounds left="8014" top="7582" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b75a8" id="132" symbol="11SwTextFrame" next="146" prev="134" upper="2" txtNodeIndex="30">
+    <infos>
+     <bounds left="8014" top="7858" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.5 (1.17 Book)    <Text nLength="15" nType="POR_PARA" nHeight="276" nWidth="1520"/>
+    <LineBreak nWidth="1520"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc268" id="146" symbol="11SwTextFrame" next="136" prev="132" upper="2" txtNodeIndex="31">
+    <infos>
+     <bounds left="8014" top="8134" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Define the essential properties of the following types of operating systems:    <Text nLength="76" nType="POR_PARA" nHeight="276" nWidth="7555"/>
+    <LineBreak nWidth="7555"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b78f0" id="136" symbol="11SwTextFrame" next="167" prev="146" upper="2" txtNodeIndex="32">
+    <infos>
+     <bounds left="8014" top="8410" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+a. Batch    <Text nLength="8" nType="POR_PARA" nHeight="276" nWidth="840"/>
+    <LineBreak nWidth="840"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bce70" id="167" symbol="11SwTextFrame" next="148" prev="136" upper="2" txtNodeIndex="33">
+    <infos>
+     <bounds left="8014" top="8686" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc498" id="148" symbol="11SwTextFrame" next="168" prev="167" upper="2" txtNodeIndex="34">
+    <infos>
+     <bounds left="8014" top="8962" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+b. Interactive    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1373"/>
+    <LineBreak nWidth="1373"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3040" id="168" symbol="11SwTextFrame" next="149" prev="148" upper="2" txtNodeIndex="35">
+    <infos>
+     <bounds left="8014" top="9238" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc5b0" id="149" symbol="11SwTextFrame" next="169" prev="168" upper="2" txtNodeIndex="36">
+    <infos>
+     <bounds left="8014" top="9514" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+c. Time Sharing    <Text nLength="15" nType="POR_PARA" nHeight="276" nWidth="1625"/>
+    <LineBreak nWidth="1625"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3158" id="169" symbol="11SwTextFrame" next="150" prev="149" upper="2" txtNodeIndex="37">
+    <infos>
+     <bounds left="8014" top="9790" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc6c8" id="150" symbol="11SwTextFrame" next="175" prev="169" upper="2" txtNodeIndex="38">
+    <infos>
+     <bounds left="8014" top="10066" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+d. real Time    <Text nLength="12" nType="POR_PARA" nHeight="276" nWidth="1233"/>
+    <LineBreak nWidth="1233"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3270" id="175" symbol="11SwTextFrame" next="176" prev="150" upper="2" txtNodeIndex="39">
+    <infos>
+     <bounds left="8014" top="10342" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3388" id="176" symbol="11SwTextFrame" next="151" prev="175" upper="2" txtNodeIndex="40">
+    <infos>
+     <bounds left="8014" top="10618" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+e. Network    <Text nLength="10" nType="POR_PARA" nHeight="276" nWidth="1120"/>
+    <LineBreak nWidth="1120"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc380" id="151" symbol="11SwTextFrame" next="185" prev="176" upper="2" txtNodeIndex="41">
+    <infos>
+     <bounds left="8014" top="10894" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+*f. Parallel     <Text nLength="1" nType="POR_BRK"/>
+    <LineBreak/>
+    <Text nLength="12" nType="POR_LAY" nHeight="276" nWidth="1060"/>
+    <LineBreak nWidth="1060"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bcd58" id="185" symbol="11SwTextFrame" next="154" prev="151" upper="2" txtNodeIndex="42">
+    <infos>
+     <bounds left="8014" top="11446" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc7e0" id="154" symbol="11SwTextFrame" next="186" prev="185" upper="2" txtNodeIndex="43">
+    <infos>
+     <bounds left="8014" top="11722" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+g. Distributed    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1414"/>
+    <LineBreak nWidth="1414"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bcc40" id="186" symbol="11SwTextFrame" next="157" prev="154" upper="2" txtNodeIndex="44">
+    <infos>
+     <bounds left="8014" top="11998" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bca10" id="157" symbol="11SwTextFrame" next="192" prev="186" upper="2" txtNodeIndex="45">
+    <infos>
+     <bounds left="8014" top="12274" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+h. Clustered    <Text nLength="12" nType="POR_PARA" nHeight="276" nWidth="1249"/>
+    <LineBreak nWidth="1249"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff35b8" id="192" symbol="11SwTextFrame" next="158" prev="157" upper="2" txtNodeIndex="46">
+    <infos>
+     <bounds left="8014" top="12550" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bcb28" id="158" symbol="11SwTextFrame" next="155" prev="192" upper="2" txtNodeIndex="47">
+    <infos>
+     <bounds left="8014" top="12826" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+I. Handheld    <Text nLength="11" nType="POR_PARA" nHeight="276" nWidth="1227"/>
+    <LineBreak nWidth="1227"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632bc8f8" id="155" symbol="11SwTextFrame" next="135" prev="158" upper="2" txtNodeIndex="48">
+    <infos>
+     <bounds left="8014" top="13102" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b77d8" id="135" symbol="11SwTextFrame" next="123" prev="155" upper="2" txtNodeIndex="49">
+    <infos>
+     <bounds left="8014" top="13378" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+1.6    <Text nLength="3" nType="POR_PARA" nHeight="276" nWidth="300"/>
+    <LineBreak nWidth="300"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3d48" id="123" symbol="11SwTextFrame" next="197" prev="135" upper="2" txtNodeIndex="50">
+    <infos>
+     <bounds left="8014" top="13654" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Provide the Unix/Linux commands for the following. If multiple options exists, please    <Text nLength="85" nType="POR_PARA" nHeight="276" nWidth="8705"/>
+    <LineBreak nWidth="8705"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff36d0" id="197" symbol="11SwTextFrame" next="198" prev="123" upper="2" txtNodeIndex="51">
+    <infos>
+     <bounds left="8014" top="13930" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+select one. For choice d, state why you chose it: a. View memory usage b. View a process    <Text nLength="88" nType="POR_PARA" nHeight="276" nWidth="8956"/>
+    <LineBreak nWidth="8956"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff37e8" id="198" symbol="11SwTextFrame" next="199" prev="197" upper="2" txtNodeIndex="52">
+    <infos>
+     <bounds left="8014" top="14206" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+status c. Print (or ”list”) the author of each file d. one extra command of your choice    <Text nLength="87" nType="POR_PARA" nHeight="276" nWidth="8600"/>
+    <LineBreak nWidth="8600"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f427fff3900" id="199" symbol="11SwTextFrame" prev="198" upper="2" txtNodeIndex="53">
+    <infos>
+     <bounds left="8014" top="14482" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+that you don’t already know.    <Text nLength="28" nType="POR_PARA" nHeight="276" nWidth="2950"/>
+    <LineBreak nWidth="2950"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7f428c1c90f8" id="57" symbol="11SwPageFrame" next="103" prev="1" upper="0" lower="58">
+  <infos>
+   <bounds left="6880" top="16408" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x7f428c1cb0d8" id="58" symbol="11SwBodyFrame" upper="57" lower="119">
+   <infos>
+    <bounds left="8014" top="17542" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x7f42632b3a00" id="119" symbol="11SwTextFrame" next="112" upper="58" txtNodeIndex="54">
+    <infos>
+     <bounds left="8014" top="17542" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b38e8" id="112" symbol="11SwTextFrame" next="4" prev="119" upper="58" txtNodeIndex="55">
+    <infos>
+     <bounds left="8014" top="17818" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+CH 2    <Text nLength="4" nType="POR_PARA" nHeight="276" nWidth="540"/>
+    <LineBreak nWidth="540"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc118" id="4" symbol="11SwTextFrame" next="5" prev="112" upper="58" txtNodeIndex="56">
+    <infos>
+     <bounds left="8014" top="18094" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc230" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="58" txtNodeIndex="57">
+    <infos>
+     <bounds left="8014" top="18370" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.1 (2.1 Book)    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1400"/>
+    <LineBreak nWidth="1400"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc348" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="58" txtNodeIndex="58">
+    <infos>
+     <bounds left="8014" top="18646" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+What is The Purpose Of System Calls?    <Text nLength="36" nType="POR_PARA" nHeight="276" nWidth="3969"/>
+    <LineBreak nWidth="3969"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc460" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="58" txtNodeIndex="59">
+    <infos>
+     <bounds left="8014" top="18922" width="9972" height="1104" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="1104"/>
+    </infos>
+System calls are used as a means for the user to communicate with the operating system.  These are generally low level commands that perform one action at a time. For instance, a small c program to read the first line from a file would involve 2 System Calls to open and close the file, as well as I/O system calls to possibly get the file name from the user, as well as the print statement.      <Text nLength="99" nType="POR_PARA" nHeight="276" nWidth="9605"/>
+    <LineBreak nWidth="9605"/>
+    <Text nLength="99" nType="POR_LAY" nHeight="276" nWidth="9583"/>
+    <LineBreak nWidth="9583"/>
+    <Text nLength="104" nType="POR_LAY" nHeight="276" nWidth="9604"/>
+    <LineBreak nWidth="9604"/>
+    <Text nLength="91" nType="POR_LAY" nHeight="276" nWidth="8348"/>
+    <LineBreak nWidth="8348"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc578" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="58" txtNodeIndex="60">
+    <infos>
+     <bounds left="8014" top="20026" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc690" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="58" txtNodeIndex="61">
+    <infos>
+     <bounds left="8014" top="20302" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.2 (2.8 Book)    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1400"/>
+    <LineBreak nWidth="1400"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc7a8" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="58" txtNodeIndex="62">
+    <infos>
+     <bounds left="8014" top="20578" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+What  is the main advantage of the layered approach to a system design? What are the disadvantages of a layered approach?    <Text nLength="85" nType="POR_PARA" nHeight="276" nWidth="8896"/>
+    <LineBreak nWidth="8896"/>
+    <Text nLength="36" nType="POR_LAY" nHeight="276" nWidth="3845"/>
+    <LineBreak nWidth="3845"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc8c0" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="58" txtNodeIndex="63">
+    <infos>
+     <bounds left="8014" top="21130" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+The main advantage to the Layered approach is that they are more simple to construct and debug, and they accomplish making the Operating System more modular.     <Text nLength="100" nType="POR_PARA" nHeight="276" nWidth="9816"/>
+    <LineBreak nWidth="9816"/>
+    <Text nLength="58" nType="POR_LAY" nHeight="276" nWidth="6005"/>
+    <LineBreak nWidth="6005"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cc9d8" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="58" txtNodeIndex="64">
+    <infos>
+     <bounds left="8014" top="21682" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+One of the main disadvantages that a layered approach would have is defining what each layer contains  and how it is layered, because one layer can only use its lower level layers. They are also less efficient than other types of structures due to multiple layers having to be traversed for certain actions.     <Text nLength="101" nType="POR_TXT" nHeight="276" nWidth="9929"/>
+    <Text nLength="2" nType="POR_HOLE"/>
+    <LineBreak nWidth="9929"/>
+    <Text nLength="107" nType="POR_LAY" nHeight="276" nWidth="9880"/>
+    <LineBreak nWidth="9880"/>
+    <Text nLength="98" nType="POR_LAY" nHeight="276" nWidth="9030"/>
+    <LineBreak nWidth="9030"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1ccaf0" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="58" txtNodeIndex="65">
+    <infos>
+     <bounds left="8014" top="22510" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1ccc08" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="58" txtNodeIndex="66">
+    <infos>
+     <bounds left="8014" top="22786" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.3 (2.11 Book)    <Text nLength="15" nType="POR_PARA" nHeight="276" nWidth="1511"/>
+    <LineBreak nWidth="1511"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1ccd20" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="58" txtNodeIndex="67">
+    <infos>
+     <bounds left="8014" top="23062" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+How could a system be designed to allow a choice of operating systems from which to boot? What would the bootstrap program need to do?    <Text nLength="94" nType="POR_TXT" nHeight="276" nWidth="9945"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="9945"/>
+    <Text nLength="39" nType="POR_LAY" nHeight="276" nWidth="4250"/>
+    <LineBreak nWidth="4250"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c1cce38" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="58" txtNodeIndex="68">
+    <infos>
+     <bounds left="8014" top="23614" width="9972" height="1380" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="1380"/>
+    </infos>
+Usually OS is stored on a disk, and a bootstrap is located on filmware, and the bootstrap locates the kernel and loads it into main memory. We can store multiple OS’s on different segments of memory in the disk, and modify the bootstrap program to offer an interface asking the user which OS to use. From there, the bootstrap will locate the segment of memory that the OS is stored at on the disk, and load that code segment6 onto the boot block to be executed.      <Text nLength="102" nType="POR_PARA" nHeight="276" nWidth="9604"/>
+    <LineBreak nWidth="9604"/>
+    <Text nLength="100" nType="POR_LAY" nHeight="276" nWidth="9881"/>
+    <LineBreak nWidth="9881"/>
+    <Text nLength="103" nType="POR_LAY" nHeight="276" nWidth="9947"/>
+    <LineBreak nWidth="9947"/>
+    <Text nLength="106" nType="POR_TXT" nHeight="276" nWidth="9957"/>
+    <Text nLength="1" nType="POR_HOLE"/>
+    <LineBreak nWidth="9957"/>
+    <Text nLength="51" nType="POR_LAY" nHeight="276" nWidth="4978"/>
+    <LineBreak nWidth="4978"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238008" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="58" txtNodeIndex="69">
+    <infos>
+     <bounds left="8014" top="24994" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238120" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="58" txtNodeIndex="70">
+    <infos>
+     <bounds left="8014" top="25270" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.4 (2.2 Book)    <Text nLength="14" nType="POR_PARA" nHeight="276" nWidth="1400"/>
+    <LineBreak nWidth="1400"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238238" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="58" txtNodeIndex="71">
+    <infos>
+     <bounds left="8014" top="25546" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+What are the five major activities of an operating system with regard to process management?    <Text nLength="92" nType="POR_PARA" nHeight="276" nWidth="9635"/>
+    <LineBreak nWidth="9635"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238350" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="58" txtNodeIndex="72">
+    <infos>
+     <bounds left="8014" top="25822" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Scheduling Processes and Threads on the CPU    <Text nLength="43" nType="POR_PARA" nHeight="276" nWidth="4488"/>
+    <LineBreak nWidth="4488"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238468" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="58" txtNodeIndex="73">
+    <infos>
+     <bounds left="8014" top="26098" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Creating/Deleting both user and system processes    <Text nLength="48" nType="POR_PARA" nHeight="276" nWidth="4778"/>
+    <LineBreak nWidth="4778"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238580" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="58" txtNodeIndex="74">
+    <infos>
+     <bounds left="8014" top="26374" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Suspending/resuming processes    <Text nLength="29" nType="POR_PARA" nHeight="276" nWidth="3059"/>
+    <LineBreak nWidth="3059"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238698" id="23" symbol="11SwTextFrame" next="24" prev="22" upper="58" txtNodeIndex="75">
+    <infos>
+     <bounds left="8014" top="26650" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Providing Mechanisms for process synchronization    <Text nLength="48" nType="POR_PARA" nHeight="276" nWidth="4932"/>
+    <LineBreak nWidth="4932"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c2387b0" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="58" txtNodeIndex="76">
+    <infos>
+     <bounds left="8014" top="26926" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Providing Mechanisms for process communication    <Text nLength="46" nType="POR_PARA" nHeight="276" nWidth="4892"/>
+    <LineBreak nWidth="4892"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c2388c8" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="58" txtNodeIndex="77">
+    <infos>
+     <bounds left="8014" top="27202" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c2389e0" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="58" txtNodeIndex="78">
+    <infos>
+     <bounds left="8014" top="27478" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.5 ( 2.14 Book)    <Text nLength="16" nType="POR_PARA" nHeight="276" nWidth="1580"/>
+    <LineBreak nWidth="1580"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238af8" id="27" symbol="11SwTextFrame" next="28" prev="26" upper="58" txtNodeIndex="79">
+    <infos>
+     <bounds left="8014" top="27754" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+What is the main advantage for an operating system designer of using a virtual-machine architecture? What is the main advantage for the user?    <Text nLength="87" nType="POR_PARA" nHeight="276" nWidth="9072"/>
+    <LineBreak nWidth="9072"/>
+    <Text nLength="54" nType="POR_LAY" nHeight="276" nWidth="5649"/>
+    <LineBreak nWidth="5649"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238c10" id="28" symbol="11SwTextFrame" next="29" prev="27" upper="58" txtNodeIndex="80">
+    <infos>
+     <bounds left="8014" top="28306" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+The main advantage for a System Designer to use a virtual machine is that they can make their design usable on multiple platforms on one piece of hardware with the use of a virtual machine.    <Text nLength="101" nType="POR_PARA" nHeight="276" nWidth="9830"/>
+    <LineBreak nWidth="9830"/>
+    <Text nLength="88" nType="POR_LAY" nHeight="276" nWidth="8504"/>
+    <LineBreak nWidth="8504"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238d28" id="29" symbol="11SwTextFrame" next="30" prev="28" upper="58" txtNodeIndex="81">
+    <infos>
+     <bounds left="8014" top="28858" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+The main advantage for a user to use a virtual machine architecture is to use applications that are only available to certain operating systems on one host.    <Text nLength="105" nType="POR_PARA" nHeight="276" nWidth="9842"/>
+    <LineBreak nWidth="9842"/>
+    <Text nLength="51" nType="POR_LAY" nHeight="276" nWidth="4838"/>
+    <LineBreak nWidth="4838"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c238e40" id="30" symbol="11SwTextFrame" next="31" prev="29" upper="58" txtNodeIndex="82">
+    <infos>
+     <bounds left="8014" top="29410" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c239010" id="31" symbol="11SwTextFrame" next="32" prev="30" upper="58" txtNodeIndex="83">
+    <infos>
+     <bounds left="8014" top="29686" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+2.6    <Text nLength="3" nType="POR_PARA" nHeight="276" nWidth="300"/>
+    <LineBreak nWidth="300"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c239128" id="32" symbol="11SwTextFrame" next="33" prev="31" upper="58" txtNodeIndex="84">
+    <infos>
+     <bounds left="8014" top="29962" width="9972" height="552" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="552"/>
+    </infos>
+What is an advantage and disadvantage of a modular vs monolithic kernel? Provide an example where a monolithic kernel may be more advantageous than a micro or modular kernel.    <Text nLength="92" nType="POR_PARA" nHeight="276" nWidth="9853"/>
+    <LineBreak nWidth="9853"/>
+    <Text nLength="82" nType="POR_LAY" nHeight="276" nWidth="8871"/>
+    <LineBreak nWidth="8871"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c239240" id="33" symbol="11SwTextFrame" prev="32" upper="58" txtNodeIndex="85">
+    <infos>
+     <bounds left="8014" top="30514" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7f428c1c91f0" id="103" symbol="11SwPageFrame" next="206" prev="57" upper="0" lower="104">
+  <infos>
+   <bounds left="6880" top="32532" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x7f428c1cb1b0" id="104" symbol="11SwBodyFrame" upper="103" lower="34">
+   <infos>
+    <bounds left="8014" top="33666" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <tab ptr="0x7f428c23a000" id="34" symbol="10SwTabFrame" next="59" upper="104" lower="35">
+    <infos>
+     <bounds left="8014" top="33666" width="9972" height="5026" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="5025"/>
+    </infos>
+    <row ptr="0x7f428c23b000" id="35" symbol="10SwRowFrame" next="42" upper="34" lower="36">
+     <infos>
+      <bounds left="8014" top="33666" width="9972" height="387" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9972" height="387"/>
+     </infos>
+     <cell ptr="0x7f428c23c000" id="36" symbol="11SwCellFrame" next="38" upper="35" lower="37">
+      <infos>
+       <bounds left="8014" top="33666" width="3324" height="387" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="276"/>
+      </infos>
+      <txt ptr="0x7f428c239358" id="37" symbol="11SwTextFrame" upper="36" txtNodeIndex="88">
+       <infos>
+        <bounds left="8069" top="33722" width="3214" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="276"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c0e0" id="38" symbol="11SwCellFrame" next="40" prev="36" upper="35" lower="39">
+      <infos>
+       <bounds left="11338" top="33666" width="3324" height="387" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="276"/>
+      </infos>
+      <txt ptr="0x7f428c239470" id="39" symbol="11SwTextFrame" upper="38" txtNodeIndex="91">
+       <infos>
+        <bounds left="11393" top="33722" width="3214" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="276"/>
+       </infos>
+monolithic       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c1c0" id="40" symbol="11SwCellFrame" prev="38" upper="35" lower="41">
+      <infos>
+       <bounds left="14662" top="33666" width="3324" height="387" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="276"/>
+      </infos>
+      <txt ptr="0x7f428c239588" id="41" symbol="11SwTextFrame" upper="40" txtNodeIndex="94">
+       <infos>
+        <bounds left="14717" top="33722" width="3214" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="276"/>
+       </infos>
+Modular       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7f428c23b0f8" id="42" symbol="10SwRowFrame" next="49" prev="35" upper="34" lower="43">
+     <infos>
+      <bounds left="8014" top="34053" width="9972" height="2871" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9972" height="2871"/>
+     </infos>
+     <cell ptr="0x7f428c23c2a0" id="43" symbol="11SwCellFrame" next="45" upper="42" lower="44">
+      <infos>
+       <bounds left="8014" top="34053" width="3324" height="2871" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="2760"/>
+      </infos>
+      <txt ptr="0x7f428c2396a0" id="44" symbol="11SwTextFrame" upper="43" txtNodeIndex="97">
+       <infos>
+        <bounds left="8069" top="34109" width="3214" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="276"/>
+       </infos>
+Advantage       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c380" id="45" symbol="11SwCellFrame" next="47" prev="43" upper="42" lower="46">
+      <infos>
+       <bounds left="11338" top="34053" width="3324" height="2871" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="2760"/>
+      </infos>
+      <txt ptr="0x7f428c2397b8" id="46" symbol="11SwTextFrame" upper="45" txtNodeIndex="100">
+       <infos>
+        <bounds left="11393" top="34109" width="3214" height="2760" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="2760"/>
+       </infos>
+The main advantage of a monolithic kernel over a modular kernel would be that they are easier to expand upon than a modular kernel because it additions mean you do not have to modify a monolithic kernel as much. Another is reliability. If one process fails, the rest of the OS generally remains untouched       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c460" id="47" symbol="11SwCellFrame" prev="45" upper="42" lower="48">
+      <infos>
+       <bounds left="14662" top="34053" width="3324" height="2871" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="2760"/>
+      </infos>
+      <txt ptr="0x7f428c2398d0" id="48" symbol="11SwTextFrame" upper="47" txtNodeIndex="103">
+       <infos>
+        <bounds left="14717" top="34109" width="3214" height="1932" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="1932"/>
+       </infos>
+The big advantage of a modular system is that they are very broad, making general use and problem solving in multiple fields easy, for instance, with windows, linux, and mac products,         <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x7f428c23b1f0" id="49" symbol="10SwRowFrame" prev="42" upper="34" lower="50">
+     <infos>
+      <bounds left="8014" top="36924" width="9972" height="1767" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9972" height="1767"/>
+     </infos>
+     <cell ptr="0x7f428c23c540" id="50" symbol="11SwCellFrame" next="52" upper="49" lower="51">
+      <infos>
+       <bounds left="8014" top="36924" width="3324" height="1767" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="1656"/>
+      </infos>
+      <txt ptr="0x7f428c2399e8" id="51" symbol="11SwTextFrame" upper="50" txtNodeIndex="106">
+       <infos>
+        <bounds left="8069" top="36980" width="3214" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="276"/>
+       </infos>
+Disadvantage       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c620" id="52" symbol="11SwCellFrame" next="54" prev="50" upper="49" lower="53">
+      <infos>
+       <bounds left="11338" top="36924" width="3324" height="1767" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="1656"/>
+      </infos>
+      <txt ptr="0x7f428c239b00" id="53" symbol="11SwTextFrame" upper="52" txtNodeIndex="109">
+       <infos>
+        <bounds left="11393" top="36980" width="3214" height="1656" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="1656"/>
+       </infos>
+One disadvantage of a monolithic system would be that they are usually task specific, o they are not good for general problem solving in multiple fields.         <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x7f428c23c700" id="54" symbol="11SwCellFrame" prev="52" upper="49" lower="55">
+      <infos>
+       <bounds left="14662" top="36924" width="3324" height="1767" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3214" height="1656"/>
+      </infos>
+      <txt ptr="0x7f428c239c18" id="55" symbol="11SwTextFrame" upper="54" txtNodeIndex="112">
+       <infos>
+        <bounds left="14717" top="36980" width="3214" height="1104" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3214" height="1104"/>
+       </infos>
+One disadvantage of a modular system opposed to a monolithic system would be that they are not easy to add into/modify.         <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x7f428c239d30" id="59" symbol="11SwTextFrame" next="60" prev="34" upper="104" txtNodeIndex="115">
+    <infos>
+     <bounds left="8014" top="38692" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c239e48" id="60" symbol="11SwTextFrame" next="70" prev="59" upper="104" txtNodeIndex="116">
+    <infos>
+     <bounds left="8014" top="38968" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+You may want a monolithic system opposed to a modular system if you are doing something very task specific where you are not going to want to vary any functions/features such as the software for a printer    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011130" id="70" symbol="11SwTextFrame" next="71" prev="60" upper="104" txtNodeIndex="117">
+    <infos>
+     <bounds left="8014" top="39796" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011248" id="71" symbol="11SwTextFrame" next="69" prev="70" upper="104" txtNodeIndex="118">
+    <infos>
+     <bounds left="8014" top="40072" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011018" id="69" symbol="11SwTextFrame" next="73" prev="71" upper="104" txtNodeIndex="119">
+    <infos>
+     <bounds left="8014" top="40348" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+CH3    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011478" id="73" symbol="11SwTextFrame" next="72" prev="69" upper="104" txtNodeIndex="120">
+    <infos>
+     <bounds left="8014" top="40624" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011360" id="72" symbol="11SwTextFrame" next="74" prev="73" upper="104" txtNodeIndex="121">
+    <infos>
+     <bounds left="8014" top="40900" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.1 (Book 3.1)    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011590" id="74" symbol="11SwTextFrame" next="77" prev="72" upper="104" txtNodeIndex="122">
+    <infos>
+     <bounds left="8014" top="41176" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Using the program shown in Figure 3.30, explain what the output will be at Line A.    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c0117c0" id="77" symbol="11SwTextFrame" next="75" prev="74" upper="104" txtNodeIndex="123">
+    <infos>
+     <bounds left="8014" top="41452" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c0116a8" id="75" symbol="11SwTextFrame" next="78" prev="77" upper="104" txtNodeIndex="124">
+    <infos>
+     <bounds left="8014" top="41728" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.2 (Book 3.5)    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c0118d8" id="78" symbol="11SwTextFrame" next="79" prev="75" upper="104" txtNodeIndex="125">
+    <infos>
+     <bounds left="8014" top="42004" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+When a process creates a new process using the fork() operation, which of the following    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c0119f0" id="79" symbol="11SwTextFrame" next="80" prev="78" upper="104" txtNodeIndex="126">
+    <infos>
+     <bounds left="8014" top="42280" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+states is shared between the parent process and the child process?    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011b08" id="80" symbol="11SwTextFrame" next="82" prev="79" upper="104" txtNodeIndex="127">
+    <infos>
+     <bounds left="8014" top="42556" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+a. Stack b. Heap c. Shared Memory Segments    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011d38" id="82" symbol="11SwTextFrame" next="81" prev="80" upper="104" txtNodeIndex="128">
+    <infos>
+     <bounds left="8014" top="42832" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011c20" id="81" symbol="11SwTextFrame" next="83" prev="82" upper="104" txtNodeIndex="129">
+    <infos>
+     <bounds left="8014" top="43108" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.3 (Book 3.8)    <Finish/>
+   </txt>
+   <txt ptr="0x7f428c011e50" id="83" symbol="11SwTextFrame" next="85" prev="81" upper="104" txtNodeIndex="130">
+    <infos>
+     <bounds left="8014" top="43384" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Describe the differences among short-term, medium-term, and long-term scheduling.    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad138" id="85" symbol="11SwTextFrame" next="84" prev="83" upper="104" txtNodeIndex="131">
+    <infos>
+     <bounds left="8014" top="43660" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad020" id="84" symbol="11SwTextFrame" next="88" prev="85" upper="104" txtNodeIndex="132">
+    <infos>
+     <bounds left="8014" top="43936" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.4 (Book 3.15)    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad250" id="88" symbol="11SwTextFrame" next="89" prev="84" upper="104" txtNodeIndex="133">
+    <infos>
+     <bounds left="8014" top="44212" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+Give an example of a situation in which ordinary pipes are more suitable than named    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad368" id="89" symbol="11SwTextFrame" next="90" prev="88" upper="104" txtNodeIndex="134">
+    <infos>
+     <bounds left="8014" top="44488" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+pipes and an example of a situation in which named pipes are more suitable than ordinary    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad480" id="90" symbol="11SwTextFrame" next="92" prev="89" upper="104" txtNodeIndex="135">
+    <infos>
+     <bounds left="8014" top="44764" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+pipes.    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad6b0" id="92" symbol="11SwTextFrame" next="91" prev="90" upper="104" txtNodeIndex="136">
+    <infos>
+     <bounds left="8014" top="45040" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad598" id="91" symbol="11SwTextFrame" next="94" prev="92" upper="104" txtNodeIndex="137">
+    <infos>
+     <bounds left="8014" top="45316" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.5 (Book 3.18)    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad7c8" id="94" symbol="11SwTextFrame" next="95" prev="91" upper="104" txtNodeIndex="138">
+    <infos>
+     <bounds left="8014" top="45592" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+What are the benefits and the disadvantages of each of the following? Consider both the    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad8e0" id="95" symbol="11SwTextFrame" next="96" prev="94" upper="104" txtNodeIndex="139">
+    <infos>
+     <bounds left="8014" top="45868" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+system level and the programmer level. a. Synchronous and asynchronous communication    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ad9f8" id="96" symbol="11SwTextFrame" next="97" prev="95" upper="104" txtNodeIndex="140">
+    <infos>
+     <bounds left="8014" top="46144" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+b. Automatic and explicit buffering c. Send by copy and send by reference d. Fixed-sized    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632adb10" id="97" symbol="11SwTextFrame" next="99" prev="96" upper="104" txtNodeIndex="141">
+    <infos>
+     <bounds left="8014" top="46420" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+and variable-sized messages    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632add40" id="99" symbol="11SwTextFrame" prev="97" upper="104" txtNodeIndex="142">
+    <infos>
+     <bounds left="8014" top="46696" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x7f428c1c92e8" id="206" symbol="11SwPageFrame" prev="103" upper="0" lower="207">
+  <infos>
+   <bounds left="6880" top="48656" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x7f428c1cb288" id="207" symbol="11SwBodyFrame" upper="206" lower="98">
+   <infos>
+    <bounds left="8014" top="49790" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x7f42632adc28" id="98" symbol="11SwTextFrame" next="100" upper="207" txtNodeIndex="143">
+    <infos>
+     <bounds left="8014" top="49790" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.6    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632ade58" id="100" symbol="11SwTextFrame" next="101" prev="98" upper="207" txtNodeIndex="144">
+    <infos>
+     <bounds left="8014" top="50066" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+We discussed in class about sandboxing. Define sandboxing and then describe how it may    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3028" id="101" symbol="11SwTextFrame" next="102" prev="100" upper="207" txtNodeIndex="145">
+    <infos>
+     <bounds left="8014" top="50342" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+be used to improve resiliency in a web browser. Additionally, define strong and weak    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3140" id="102" symbol="11SwTextFrame" next="106" prev="101" upper="207" txtNodeIndex="146">
+    <infos>
+     <bounds left="8014" top="50618" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+resiliency.    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3370" id="106" symbol="11SwTextFrame" next="105" prev="102" upper="207" txtNodeIndex="147">
+    <infos>
+     <bounds left="8014" top="50894" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3258" id="105" symbol="11SwTextFrame" next="108" prev="106" upper="207" txtNodeIndex="148">
+    <infos>
+     <bounds left="8014" top="51170" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+3.7    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b3488" id="108" symbol="11SwTextFrame" next="109" prev="105" upper="207" txtNodeIndex="149">
+    <infos>
+     <bounds left="8014" top="51446" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+What are I/O bound and CPU bound processes? B.Describe these two types of processes    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b35a0" id="109" symbol="11SwTextFrame" next="110" prev="108" upper="207" txtNodeIndex="150">
+    <infos>
+     <bounds left="8014" top="51722" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+with examples of how they would be handled by the OS through the process state diagram.    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b36b8" id="110" symbol="11SwTextFrame" next="111" prev="109" upper="207" txtNodeIndex="151">
+    <infos>
+     <bounds left="8014" top="51998" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+C. Also, comment on the size of the desirable time-slice for an OS handling only I/O bound    <Finish/>
+   </txt>
+   <txt ptr="0x7f42632b37d0" id="111" symbol="11SwTextFrame" prev="110" upper="207" txtNodeIndex="152">
+    <infos>
+     <bounds left="8014" top="52274" width="9972" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="276"/>
+    </infos>
+and only CPU-bound processes respectively.    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>

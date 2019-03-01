@@ -1,0 +1,16 @@
+package lab1;
+
+public class truthTable {
+
+	public truthTable() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char[] pArray = {'T','T','T','T','F','F','F','F'};
+		char[] qArray = {'T','T','F','F','T','T','F','F'};
+		char[] rArray = {'
+	}
+
+}

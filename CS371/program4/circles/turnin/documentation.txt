@@ -1,0 +1,12 @@
+Andrew Baca
+CS371
+Program 4
+
+Documentation-
+- fixed the order of x and y values in super in circle2.java
+- fixed scale in circle.java to radius * factor opposed to radius + factor
+- fixed moveby offset for one of the values in circles.java
+- added a test case for scaling up in both test
+- added a test case for scaling down for both test
+- added a test case for non intersecting
+- added a test case for intersecting

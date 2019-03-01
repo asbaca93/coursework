@@ -1,0 +1,51 @@
+Programming assignment #1 part 1 Summary
+
+ 
+
+Key:
+Plaintext:  E T A O I N S H R D L C U M W F G Y F B V K J X Q Z
+
+Ciphertext: K R I B T P V L W Y C J N A M Q O Z S E U G H F D X
+
+(note that f, d, and x did not appear in the ciphertext at all so we initially assumed that the lowest frequency 
+letters were those were x, q, and z, and we later found out that we needed x once in plaintext)
+
+ 
+
+Decrypted Message:
+
+EVENTHOUGHWEDONTKNOWWHICHCOMPANIESTHENSAHASCOMPROMISEDORBYWHATMEANSKNOWINGTHATTHEYCOULDHAVECOMPROMISEDA
+NYOFTHEMISENOUGHTOMAKEUSMISTRUSTFULOFALLOFTHEMISGOINGTOMAKEITHARDFORLARGECOMPANIESLIKEGOOGLEANDMICROSOFT
+TOGETBACKTHETRUSTTHEYLOSTEVENIFTHEYSUCEEDINLIMITINGGOVERNMENTSURVAILENCEEVENIFTHEYSUCEEDINIMPROVINGTHEIROW
+NINTERNALSECURITYTHEBESTTHEYLLBEABLETOSAYISWEHAVESECUREDOURSELVESFROMTHENSAEXCEPTFORTHEPARTSTHATWEEITHE
+RDONTKNOWABOUTORCANTTALKABOUT
+
+EVEN THOUGH WE DON’T KNOW WHICH COMPANIES THE NSA HAS COMPROMISED OR BY WHAT MEANS KNOWING THAT THEY COULD HAVE COMPROMISED
+ ANY OF THEM IS ENOUGH TO MAKE US MISTRUSTFUL OF ALL OF THEM IS GOING TO MAKE IT HARD FOR LARGE COMPANIES LIKE GOOGLE AND 
+MICROSOFT TO GET BACK THE TRUST THEY LOST EVEN IF THEY SUCEED IN LIMITING GOVERNMENT SURVAILENCE EVEN IF THEY SUCEED IN 
+IMPROVING THEIR OWN INTERNAL SECURITY THE BEST THEY’LL BE ABLE TO SAY IS WE HAVE SECURED OURSELVES FROM THE NSA EXCEPT FOR
+ THE PARTS THAT WE EITHER DON’T KNOW ABOUT OR CANT TALK ABOUT
+
+ 
+
+Steps took beyond the code:
+
+-After I got the frequency table of the ciphertext, I made an initial loop with a switch statement translating 
+and printing the initial decryption key translating to:
+
+      Plaintext:  E T A O I N S H R D L C U M W F G Y F B V K J X Q Z
+
+      Ciphertext: K R B P T I V L W A C J N O Q Y E M S G U Z D F H X  
+
+-After analyzing the text from the initial decryption key, it still looked like a random assortment of letters,
+ but I managed to find some words, such as a couple “the”, “trust”, and, “securitp” which I came to the conclusion that p had to be shifted with y in the key.
+
+-I made a second loop with a switch statement to tweak and try different combinations until I found the actual
+ key. Some shifts that took place were shifting p with k, b with a, and then a with m, and b with v and k and 
+b with u, and a few other shifts based on similar frequencies and potential words standing out.
+
+-I created a search algorithm to scan the current text and compare them to words in the dictionary text and 
+see how many words I can find.  The more words that the program scanned, the closer I was to completing the actual key
+
+
+

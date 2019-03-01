@@ -1,0 +1,40 @@
+/*************************************************************************************************
+*
+* Andrew Baca
+* CS 471
+* Programming Assignment 1
+* 
+* August 15th, 2018
+*
+* Procedure- This program will fill an array of 100 characters, and cast the array as a string
+*	     to be printed out. This program is meant to test the byte sequence of C.
+*
+* Input:
+*
+* Output: 
+*
+*************************************************************************************************/
+#include <math.h>
+
+int main(void)
+{
+	int name[100];
+	char *s;
+
+	name[0] = 'A' * pow(256, );
+	name[1] = 'n' * pow(256, );
+	name[2] = 'd' * pow(256, );
+	name[3] = 'r' * pow(256, );
+	name[4] = 'e' * pow(256, );
+	name[5] = 'w' * pow(256, );
+	name[6] = ' ' * pow(256, );
+	name[7] = 'B' * pow(256, );
+	name[8] = 'a' * pow(256, );
+	name[9] = 'c' * pow(256, );
+	name[10]= 'a' * pow(256, );
+
+	S = (char*)name;
+
+	printf("My name is %s\n", S);
+
+}

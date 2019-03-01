@@ -1,0 +1,47 @@
+V "GNAT Lib v7"
+M P W=b
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IO
+RV SPARK_05
+
+U main%b		main.adb		c5295643 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20170109082349 76789da1 ada%s
+D a-except.ads		20161214142939 291912d5 ada.exceptions%s
+D a-ioexce.ads		20161214142948 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20161214142926 119b8fb3 ada.streams%s
+D a-tags.ads		20161214142926 01f5e3ef ada.tags%s
+D a-textio.ads		20161214142926 386df5d4 ada.text_io%s
+D a-unccon.ads		20170109082349 31484697 ada.unchecked_conversion%s
+D interfac.ads		20161214142939 5ab55268 interfaces%s
+D i-cstrea.ads		20161214142926 e53d8b8e interfaces.c_streams%s
+D main.adb		20180905171813 fd44a397 main%b
+D system.ads		20170512081901 4635ec04 system%s
+D s-crtl.ads		20161214142926 0ebbdb71 system.crtl%s
+D s-exctab.ads		20161214142948 54135002 system.exception_table%s
+D s-ficobl.ads		20161214142948 078245e4 system.file_control_block%s
+D s-parame.ads		20161214142939 7e2a0d7f system.parameters%s
+D s-soflin.ads		20161214142939 14e1eb6c system.soft_links%s
+D s-stache.ads		20161214142939 a37c21ec system.stack_checking%s
+D s-stalib.ads		20161214142948 09bd3940 system.standard_library%s
+D s-stoele.ads		20161214142939 2dc34a04 system.storage_elements%s
+D s-traent.ads		20161214142939 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20161214142939 34867c83 system.unsigned_types%s
+D s-wchcon.ads		20161214142939 1b7d22d2 system.wch_con%s
+X 1 ada.ads
+16K9*Ada 20e8 10|7r6 8r5
+X 6 a-textio.ads
+49K13*Text_IO 471e16 10|7w10 8r9
+263U14*Put_Line 10|15s17 19s9 20s9 21s9 23s17 25s17 28s9 29s9 31s17 33s17
+. 36s9 37s9 39s17 41s17 44s9 45s9 47s17 49s17
+X 10 main.adb
+12U11*main 12b11 51l5 51t9
+13V18 F{boolean} 13b18 17l13 17t14 22s23 30s22 38s24 46s22
+

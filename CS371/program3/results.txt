@@ -1,0 +1,17 @@
+Andrew Baca
+CS371
+Program 3 Documentation
+
+in igloo score 1, there were 3 test cases added all together
+	one with s1 less than s2
+	one with s3 and s being compared
+	one with less arguments
+	one with double values.
+-this triggered all of the lines of code
+
+in igloo score 3, I needed to alter two of the if statements that were redundant inside of the java file to make the inputs branch to certain cases.  
+-Added multiple cases to trigger each statements
+- 3 cases where each of the argument was the lowest value
+- a less than 3 arg statements
+- a statement with doubles as args
+- 6 statements where each statement is less than 0 or greater than 50
